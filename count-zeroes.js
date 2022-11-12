@@ -21,5 +21,3 @@ function countZeroes(array) {
 }
 
 module.exports = countZeroes
-L .      R
-[1,0,0,0,0]
